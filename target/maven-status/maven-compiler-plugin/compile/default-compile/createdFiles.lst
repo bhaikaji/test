@@ -1,0 +1,5 @@
+com/unittest/NotifierStub.class
+com/unittest/Notifier.class
+com/unittest/TrackingService.class
+com/unittest/HistoryItem.class
+com/unittest/InvalidGoalException.class
